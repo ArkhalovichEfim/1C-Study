@@ -1,0 +1,13 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    }
+    
+body {
+    //Сделать расположение по центру (allign-items и т.д)
+}
+
+body > textarea {
+    width: 100%;
+    flex: 1 1 auto;
+}
